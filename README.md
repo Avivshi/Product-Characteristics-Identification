@@ -1,4 +1,4 @@
-Product Characteristics Identification¶
+# Product Characteristics Identification¶
 
 
 With the development of globalization and consumer culture, people from all over the world are buying more and more products through the internet.
